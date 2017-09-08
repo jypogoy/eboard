@@ -1,0 +1,28 @@
+{
+  "name": "eboard",
+  "authors": [
+    "Jeffrey Pogoy <jypogoy@gmail.com>"
+  ],
+  "description": "Collection of Javascript libraries for EBoard application.",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.6",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jvectormap": "^2.0.4",
+    "datepicker": "*",
+    "daterangepicker": "^1.6.0",
+    "Ionicons": "ionicons#^2.0.1",
+    "morris.js": "morrisjs#^0.5.1"
+  }
+}
